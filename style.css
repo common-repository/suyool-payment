@@ -1,0 +1,40 @@
+.logo{
+    margin:20px auto 20px auto;
+}
+.displayNone{
+    display: none;
+}
+.message{
+    color: green;
+}
+.subtitle{
+    font-size: 18px;
+}
+#qr-code{
+    margin: 20px 0;
+}
+#qr-code img{
+    max-width: 100%;
+}
+.IframeCont h5 {
+    margin: 0;
+    margin-bottom: 9px;
+    color: #465567;
+    font-family: 'Helvetica Neue, Bold';
+    font-size: 20px;
+}
+.stepsImageCont img {
+    max-width: 45%;
+}
+
+.buttonCont {
+    margin-bottom: 30px;
+}
+.open-app {
+    background-color: #387ea5;
+    color: #fff;
+    border-radius: 7px;
+    padding: 7px 46px;
+    font-size: 16px;
+    text-decoration: none;
+}
